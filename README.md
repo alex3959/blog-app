@@ -1,4 +1,4 @@
-# app-blog
+# Blog app with VueJs
 
 ## Project setup
 ```
